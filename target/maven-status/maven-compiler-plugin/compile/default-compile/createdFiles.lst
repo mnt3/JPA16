@@ -1,0 +1,12 @@
+lt\akademija\jpaexam\ex01simple\CarRepository.class
+lt\akademija\jpaexam\ex02associaions\LibraryReaderRepository.class
+lt\akademija\jpaexam\ex02associaions\LibraryReaderAddress.class
+lt\akademija\jpaexam\ex02associaions\BookRepository.class
+lt\akademija\jpaexam\ex01simple\CarEntity.class
+lt\akademija\jpaexam\ex02associaions\LibraryReader.class
+lt\akademija\jpaexam\ex02associaions\LibraryService.class
+lt\akademija\jpaexam\ex02associaions\Book.class
+lt\akademija\jpaexam\ex02associaions\Library.class
+lt\akademija\jpaexam\ex02associaions\LibraryRepository.class
+lt\akademija\jpaexam\JpaExamApplication.class
+lt\akademija\jpaexam\ex01simple\CarRepo.class

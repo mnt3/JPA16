@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: jpa-exam
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: JP17-2
+Implementation-Vendor-Id: lt.akademija.javatech
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/jpa-exercise
+ s/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
